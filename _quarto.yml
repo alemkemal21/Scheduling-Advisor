@@ -1,0 +1,11 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "Scheduling Advisor"
+
+format:
+  html:
+    theme: cosmo
