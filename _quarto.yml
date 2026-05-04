@@ -4,8 +4,8 @@ project:
     - "*.qmd"
 
 website:
-  title: "Scheduling Advisor"
+  title: "College Scheduling Advisor"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
