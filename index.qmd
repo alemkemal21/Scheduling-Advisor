@@ -40,7 +40,7 @@ LLM Available Tools:
 ## Team
 
 - Alem Kemal (@alemkemal21)
-- Eleanor Koh (@eleanorkoh)
+- Eleanor Koh (@kohzhiy)
 - Katie Mozak (@kat635)
 
 ## Acknowledgements
